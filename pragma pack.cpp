@@ -7,7 +7,7 @@ struct emp
 	float c;
 };
 #pragma pack()
-//jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+//jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj11111111111222222
 int main()
 {
 	struct emp e;
